@@ -52,17 +52,8 @@
 
 ## 🖥️ Live Demo (Streamlit Cloud)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-krishi-jnaana.streamlit.app)
+[![Open in Streamlit](https://krishi-jnan-ny9cqkayjob9v7xjlb2nks.streamlit.app)
 
----
-
-
----
-
-## 📸 Screenshots
-
-### 🔼 Home Page with Theme Switcher & Hero Banner
-![Homepage Screenshot](https://i.postimg.cc/YSCMXh5r/krishi-hero-banner.png)
 
 
 ---
